@@ -1,0 +1,20 @@
+tr,th,td,.table-striped
+{
+	border-style:solid;
+    border-color: black;
+    border-width: 1;
+    border-collapse: collapse;
+    background-color: white;
+    color: black;
+    padding: 5;
+    text-align: center;
+    background-color: palegreen;
+}
+
+
+
+
+
+
+
+
